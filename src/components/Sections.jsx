@@ -115,7 +115,7 @@ export const AboutSection = () => {
               className="relative overflow-hidden rounded-2xl"
             >
               <img
-                src="/profile.png"
+                src="./profile.png"
                 alt="Profile"
                 className="w-full h-auto object-cover grayscale hover:grayscale-0 transition-all duration-500"
               />
